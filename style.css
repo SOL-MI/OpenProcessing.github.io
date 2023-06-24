@@ -1,0 +1,15 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+button {
+	border: none;
+	color: orange;
+	background: none;
+	font-size: 15px;
+	cursor: pointer;
+	padding: 10px;
+	margin: 10px;
+}
